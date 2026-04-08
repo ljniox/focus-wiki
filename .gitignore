@@ -1,0 +1,4 @@
+.silverbullet.auth.json
+.silverbullet.db*
+_plug/
+.DS_Store
